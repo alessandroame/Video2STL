@@ -1,0 +1,14 @@
+node_modules/
+.venv/
+__pycache__/
+workspace_scans/*
+!workspace_scans/README.md
+*.ply
+*.splat
+*.stl
+*.obj
+*.3mf
+*.mp4
+*.mov
+*.mkv
+.DS_Store

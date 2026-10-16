@@ -1,0 +1,13 @@
+{
+  "name": "video2stl",
+  "version": "0.1.0",
+  "description": "Universal video-to-CAD (STL/OBJ/3MF) photogrammetry and 2D Gaussian Splatting pipeline for Autodesk Fusion 360 and RTX 3090",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "probe": "node src/cli/probe-hardware.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
